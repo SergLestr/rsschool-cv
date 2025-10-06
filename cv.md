@@ -18,12 +18,11 @@
 ## Skills:
 
 * HTML5, CSS3
-* JavaScript
+* JavaScript, Delphi
 * Git, GitHub
 * VS Code, Sublime text
 
 ***********************************
 ## Courses:     
-
 
 * [HTML Academy]  Professional Online Course HTML and CSS
